@@ -27,8 +27,16 @@ jobs:
           path: 'antme.wiki'
       - name: simulate
         run: |
-            ./AntMeConsole.exe /folder=./enemies > ./antme.wiki/Result.md
-            cat result.md
+            ls
+            ./AntMeConsole.exe /folder=./enemies > Result.md
+            cat Result.md
+            
+            # this is required for the push to succeed
+            git config --global user.email "antmegithub-action@elastic.co"
+            git config --global user.name "Action AtnmeWiki"
+            git add Result.md
+            git commit -m "Update Result.md at $(date)"
+            git push origin master
         
       - name: Upload Artifacts
         uses: actions/upload-artifact@v3
