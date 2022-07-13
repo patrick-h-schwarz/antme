@@ -21,12 +21,12 @@ jobs:
       - name: simulate
         run: |
             cd lib
-            antmeconsole.exe /folder=.\..\release > result.md
+            ./AntMeConsole.exe /folder=./../release > result.md
         
       - name: Upload Artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: Setup
-          path: Setup/bin/Release/AntMe.msi
+          name: Result
+          path: result.md
 
 
