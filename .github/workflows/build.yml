@@ -18,9 +18,16 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check out wiki
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          repository: 'patrick-h-schwarz/antme/wiki'
+          ref: 'master'
+          path: 'antme.wiki'
       - name: simulate
         run: |
-            ./AntMeConsole.exe /folder=./enemies > result.md
+            ./AntMeConsole.exe /folder=./enemies > ./antme.wiki/Result.md
             cat result.md
         
       - name: Upload Artifacts
