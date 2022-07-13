@@ -20,7 +20,7 @@ jobs:
 
       - name: simulate
         run: |
-            ./AntMeConsole.exe /folder=./release > result.md
+            ./AntMeConsole.exe /folder=./enemies > result.md
             cat result.md
         
       - name: Upload Artifacts
