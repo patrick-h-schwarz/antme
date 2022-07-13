@@ -22,11 +22,12 @@ jobs:
         run: |
             cd lib
             ./AntMeConsole.exe /folder=./../release > result.md
+            cat result.md
         
       - name: Upload Artifacts
         uses: actions/upload-artifact@v3
         with:
           name: Result
-          path: result.md
+          path: ./release/result.md
 
 
