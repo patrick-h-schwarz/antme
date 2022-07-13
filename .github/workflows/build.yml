@@ -20,7 +20,6 @@ jobs:
 
       - name: simulate
         run: |
-            cd lib
             ./AntMeConsole.exe /folder=./../release > result.md
             cat result.md
         
@@ -28,6 +27,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Result
-          path: lib/result.md
+          path: result.md
 
 
