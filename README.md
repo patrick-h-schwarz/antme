@@ -1,5 +1,6 @@
 
-* [Results Uploaded Colonies](https://github.com/patrick-h-schwarz/antme/wiki/Result)
+
+[Results Uploaded Colonies](https://github.com/patrick-h-schwarz/antme/wiki/Result)
 
 # AntMe!
 
