@@ -11,3 +11,7 @@ AntMe! is a free, fun game that teaches players object-oriented programming. Itâ
 * [Project Wiki](http://wiki.antme.net/en)
 * [Facebook Page](https://www.facebook.com/antme2/)
 * [Twitter](http://www.twitter.com/bobstriker)
+
+# Entwicklung
+## [Visual Studio Community 2022 oder 2019](https://visualstudio.microsoft.com/de/vs/)
+## [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) 
