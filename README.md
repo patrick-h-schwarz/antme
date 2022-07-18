@@ -13,5 +13,17 @@ AntMe! is a free, fun game that teaches players object-oriented programming. Itâ
 * [Twitter](http://www.twitter.com/bobstriker)
 
 # Entwicklung
-## [Visual Studio Community 2022 oder 2019](https://visualstudio.microsoft.com/de/vs/)
-## [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) 
+- [Visual Studio Community 2022 oder 2019](https://visualstudio.microsoft.com/de/vs/)
+- [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) 
+
+# Kasten
+
+| Modifikator | -1 | 0 | 1 | 2 | 
+| :--- | :---: | :---: | :---: | :---: |
+| Geschwindigkeit|3 Schritte/Runde | 4Schritte/Runde | 5Schritte/Runde |6 Schritte/Runde| 
+| Drehgeschwindigkeit|6 Grad/Runde| 8 Grad/Runde| 12 Grad/Runde| 16 Grad/Runde |
+| Last |4 Einheiten Zucker| 5 Einheiten Zucker| 7 Einheiten Zucker|10 Einheiten Zucker| 
+| Sichtweite | 45 Schritte | 60Schritte | 75Schritte | 90Schritte |
+| Reichweite | 0.75*Standard | 1*Standard | 1.5*Standard | 2*Standard|
+| Energie | 50LP | 100LP | 175LP | 250LP |
+| Angriff | keinAngriff | 10LP/Runde | 20LP/Runde | 30LP/Runde|
