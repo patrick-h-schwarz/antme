@@ -20,10 +20,10 @@ AntMe! is a free, fun game that teaches players object-oriented programming. Itâ
 
 | Modifikator | -1 | 0 | 1 | 2 | 
 | :--- | :---: | :---: | :---: | :---: |
-| Geschwindigkeit|3 Schritte/Runde | 4Schritte/Runde | 5Schritte/Runde |6 Schritte/Runde| 
-| Drehgeschwindigkeit|6 Grad/Runde| 8 Grad/Runde| 12 Grad/Runde| 16 Grad/Runde |
-| Last |4 Einheiten Zucker| 5 Einheiten Zucker| 7 Einheiten Zucker|10 Einheiten Zucker| 
-| Sichtweite | 45 Schritte | 60Schritte | 75Schritte | 90Schritte |
-| Reichweite | 0.75*Standard | 1*Standard | 1.5*Standard | 2*Standard|
-| Energie | 50LP | 100LP | 175LP | 250LP |
-| Angriff | keinAngriff | 10LP/Runde | 20LP/Runde | 30LP/Runde|
+| Geschwindigkeit| 3 Schritte/Runde | 4 Schritte/Runde | 5Schritte/Runde |6 Schritte/Runde| 
+| Drehgeschwindigkeit| 6 Grad/Runde| 8 Grad/Runde | 12 Grad/Runde | 16 Grad/Runde |
+| Last | 4 Einheiten Zucker| 5 Einheiten Zucker | 7 Einheiten Zucker | 10 Einheiten Zucker| 
+| Sichtweite | 45 Schritte | 60 Schritte | 75 Schritte | 90 Schritte |
+| Reichweite | 0.75*Standard | 1*Standard | 1.5*Standard | 2*Standard |
+| Energie | 50 LP | 100 LP | 175 LP | 250 LP |
+| Angriff | keinAngriff | 10 LP/Runde | 20 LP/Runde | 30 LP/Runde |
