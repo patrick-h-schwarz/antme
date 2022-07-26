@@ -20,7 +20,7 @@ AntMe! is a free, fun game that teaches players object-oriented programming. Itâ
   ![image](https://user-images.githubusercontent.com/97505877/181019565-d84bd513-2e78-4086-a21e-7b1e63bd53c4.png)
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) 
 
-# [Starten] (https://wiki.antme.net/de/docs/tutorials/gamestart)
+# [Starten](https://wiki.antme.net/de/docs/tutorials/gamestart)
 
 # Kasten
 
