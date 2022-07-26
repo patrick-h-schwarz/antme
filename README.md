@@ -13,7 +13,11 @@ AntMe! is a free, fun game that teaches players object-oriented programming. Itâ
 * [Twitter](http://www.twitter.com/bobstriker)
 
 # Entwicklung
-- [Visual Studio Community 2022 oder 2019](https://visualstudio.microsoft.com/de/vs/)
+- [Visual Studio Community 2019](https://www.chip.de/downloads/Visual-Studio-2019-Community_36594360.html)
+  - .net Framework 4.6.2 SDK
+  - .Net Desktop-Buildtools
+  - Desktopentwicklung mit C++
+  ![image](https://user-images.githubusercontent.com/97505877/181019565-d84bd513-2e78-4086-a21e-7b1e63bd53c4.png)
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) 
 
 # Kasten
